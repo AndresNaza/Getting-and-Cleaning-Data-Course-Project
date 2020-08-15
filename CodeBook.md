@@ -13,6 +13,6 @@ This are the main aspects of the data used for this project:
 The steps taken can be clearly seen on the script run_analysis.R, saved on this repo.
 
 * Resulting variables:
- * "activity_name": one of the six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) performed by each person wearing a smartphone (Samsung Galaxy S II) on the waist.
- * "subject_code": one of the 30 volunteers within an age bracket of 19-48 years that carried out the experiment
- * The following variables contain the mean for each activity of each subject of the features measured by the sensors. Additional information can be obtained on the README file located on the UCI HAR Dataset folder.
+  * "activity_name": one of the six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) performed by each person wearing a smartphone (Samsung Galaxy S II) on the waist.
+  * "subject_code": one of the 30 volunteers within an age bracket of 19-48 years that carried out the experiment
+  * The following variables contain the mean for each activity of each subject of the features measured by the sensors. Additional information can be obtained on the README file located on the UCI HAR Dataset folder.
